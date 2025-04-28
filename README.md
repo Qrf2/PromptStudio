@@ -1,3 +1,12 @@
+![Screenshot 2025-04-26 105916](https://github.com/user-attachments/assets/749d2433-e4aa-42bc-9860-6427d91e0add)
+
+![Screenshot 2025-04-26 105942](https://github.com/user-attachments/assets/b8bb6574-5f03-4061-af2a-65957094f706)
+
+![Screenshot 2025-04-26 105954](https://github.com/user-attachments/assets/3acbec1d-e6d2-4a1f-809b-ad83972b16a5)
+
+![Screenshot 2025-04-26 110022](https://github.com/user-attachments/assets/64759155-2eea-4c29-86f8-5c34c95ec77e)
+
+
 PromptStudio: Autonomous Prompt Engineering System
 PromptStudio is a professional prompt engineering system that takes a rough prompt idea and autonomously generates, tests, scores, refines, and documents multiple prompt versions. Built with a sleek Streamlit UI, it uses OpenRouter's free-tier model (LLaMA 3.1 8B Instruct) to deliver a full feedback loop, making it 10X smarter than simple prompt generators.
 Features
